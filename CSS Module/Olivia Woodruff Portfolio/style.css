@@ -1,0 +1,34 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   style.css                                          :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: ebmarque <ebmarque@student.42porto.com     +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2024/05/26 19:05:49 by ebmarque          #+#    #+#             */
+/*   Updated: 2024/05/26 19:05:49 by ebmarque         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
+h1 {
+	color: azure;
+}
+
+body {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	background-image: url('https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png');
+}
+
+.header {
+	background-color: cornflowerblue;
+	text-align: center;
+}
+
+.about-me {
+	opacity: 0.5;
+	font-size: 20px;
+}
+
+.title {
+	font-weight: bold;
+}
